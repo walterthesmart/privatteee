@@ -1,0 +1,329 @@
+[project]
+name = "contracts"
+description = ""
+authors = []
+telemetry = false
+cache_dir = "./.cache"
+
+[contracts.achievement-badge-v5]
+path = "contracts/achievement-badge-v5.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[contracts.auth-registry-v5]
+path = "contracts/auth-registry-v5.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[contracts.backup-wallet-v5]
+path = "contracts/backup-wallet-v5.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[contracts.billboard-v5]
+path = "contracts/billboard-v5.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[contracts.config-store-v5]
+path = "contracts/config-store-v5.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[contracts.counter-v5]
+path = "contracts/counter-v5.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[contracts.data-registry-v5]
+path = "contracts/data-registry-v5.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[contracts.event-logger-v5]
+path = "contracts/event-logger-v5.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[contracts.flash-loan-record-v5]
+path = "contracts/flash-loan-record-v5.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[contracts.greeter-v5]
+path = "contracts/greeter-v5.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[contracts.kv-store-v5]
+path = "contracts/kv-store-v5.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[contracts.liquidity-pool-v5]
+path = "contracts/liquidity-pool-v5.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[contracts.message-board-v5]
+path = "contracts/message-board-v5.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[contracts.multisig-helper-v5]
+path = "contracts/multisig-helper-v5.clar"
+clarity_version = 4
+epoch = "3.3"
+
+
+
+[contracts.permission-manager-v5]
+path = "contracts/permission-manager-v5.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[contracts.proposal-submission-v5]
+path = "contracts/proposal-submission-v5.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[contracts.registry-controller-v5]
+path = "contracts/registry-controller-v5.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[contracts.reputation-system-v5]
+path = "contracts/reputation-system-v5.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[contracts.simple-counter-v5]
+path = "contracts/simple-counter-v5.clar"
+clarity_version = 4
+epoch = "3.3"
+
+
+
+
+
+[contracts.storage-v5]
+path = "contracts/storage-v5.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[contracts.achievement-badge-v6]
+path = "contracts/achievement-badge-v6.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[contracts.auth-registry-v6]
+path = "contracts/auth-registry-v6.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[contracts.backup-wallet-v6]
+path = "contracts/backup-wallet-v6.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[contracts.billboard-v6]
+path = "contracts/billboard-v6.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[contracts.config-store-v6]
+path = "contracts/config-store-v6.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[contracts.counter-v6]
+path = "contracts/counter-v6.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[contracts.data-registry-v6]
+path = "contracts/data-registry-v6.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[contracts.event-logger-v6]
+path = "contracts/event-logger-v6.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[contracts.flash-loan-record-v6]
+path = "contracts/flash-loan-record-v6.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[contracts.greeter-v6]
+path = "contracts/greeter-v6.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[contracts.kv-store-v6]
+path = "contracts/kv-store-v6.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[contracts.liquidity-pool-v6]
+path = "contracts/liquidity-pool-v6.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[contracts.message-board-v6]
+path = "contracts/message-board-v6.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[contracts.multisig-helper-v6]
+path = "contracts/multisig-helper-v6.clar"
+clarity_version = 4
+epoch = "3.3"
+
+
+
+[contracts.permission-manager-v6]
+path = "contracts/permission-manager-v6.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[contracts.proposal-submission-v6]
+path = "contracts/proposal-submission-v6.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[contracts.registry-controller-v6]
+path = "contracts/registry-controller-v6.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[contracts.reputation-system-v6]
+path = "contracts/reputation-system-v6.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[contracts.simple-counter-v6]
+path = "contracts/simple-counter-v6.clar"
+clarity_version = 4
+epoch = "3.3"
+
+
+
+
+
+[contracts.storage-v6]
+path = "contracts/storage-v6.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[contracts.achievement-badge-v7]
+path = "contracts/achievement-badge-v7.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[contracts.auth-registry-v7]
+path = "contracts/auth-registry-v7.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[contracts.backup-wallet-v7]
+path = "contracts/backup-wallet-v7.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[contracts.billboard-v7]
+path = "contracts/billboard-v7.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[contracts.config-store-v7]
+path = "contracts/config-store-v7.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[contracts.counter-v7]
+path = "contracts/counter-v7.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[contracts.data-registry-v7]
+path = "contracts/data-registry-v7.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[contracts.event-logger-v7]
+path = "contracts/event-logger-v7.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[contracts.flash-loan-record-v7]
+path = "contracts/flash-loan-record-v7.clar"
+clarity_version = 4
+epoch = "3.3"
+
+
+[contracts.greeter-v7]
+path = "contracts/greeter-v7.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[contracts.kv-store-v7]
+path = "contracts/kv-store-v7.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[contracts.liquidity-pool-v7]
+path = "contracts/liquidity-pool-v7.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[contracts.message-board-v7]
+path = "contracts/message-board-v7.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[contracts.multisig-helper-v7]
+path = "contracts/multisig-helper-v7.clar"
+clarity_version = 4
+epoch = "3.3"
+
+
+
+[contracts.permission-manager-v7]
+path = "contracts/permission-manager-v7.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[contracts.proposal-submission-v7]
+path = "contracts/proposal-submission-v7.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[contracts.registry-controller-v7]
+path = "contracts/registry-controller-v7.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[contracts.reputation-system-v7]
+path = "contracts/reputation-system-v7.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[contracts.simple-counter-v7]
+path = "contracts/simple-counter-v7.clar"
+clarity_version = 4
+epoch = "3.3"
+
+
+
+
+
+[contracts.storage-v7]
+path = "contracts/storage-v7.clar"
+clarity_version = 4
+epoch = "3.3"
+
+[repl.analysis]
+passes = ["check_checker"]
+check_checker = { trusted_sender = false, trusted_caller = false, callee_filter = false }
