@@ -1,0 +1,16 @@
+{
+    "name": "biometric-key",
+    "version": "1.0.0",
+    "description": "Biometric Key Stacks Project",
+    "type": "module",
+    "scripts": {
+        "interact:testnet": "node scripts/interact-biometric.js testnet",
+        "interact:mainnet": "node scripts/interact-biometric.js mainnet"
+    },
+    "dependencies": {
+        "@stacks/network": "^6.0.0",
+        "@stacks/transactions": "^6.0.0",
+        "@stacks/wallet-sdk": "^6.0.0",
+        "dotenv": "^16.0.0"
+    }
+}
